@@ -73,7 +73,7 @@ Now the final phase. After running the experiment with different algorithms, the
 
 When we compare the K-NN method with Multiclass Perceptron and SVM on basis of accuracy then its accuracy is similar to that of other two classifiers which means despite its simplicity K-NN is really a good classifier.
 
-### Prediction Time (Efficiency):
+
 
 #### Our Observations:
 
@@ -81,11 +81,6 @@ One of the main limitations of K-NN was that it was computationally expensive. I
 
 While for Multiclass Perceptron Classifier we observed it will mitigate this limitation in efficiency such that its prediction time will be short because now it will only compute the dot product in the prediction phase. The majority of time is spent only once in its learning phase. Then it’s ready to predict the test instances. 
 
-#### Results:
-
-<p align="middle">
-  <img src="../master/Images/r2.png" width="600"/>
-</p>
 
 
 ## Conclusion:
